@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(105, 105, 163);
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.mainHeading {
+    font-style: italic;
+}
+
+li {
+    color: rgb(7, 115, 9)
+}
+
+p {
+    color: yellow;
+}
+
+.firstDiv {
+    box-shadow: 5px 10px 5px red;
+}
